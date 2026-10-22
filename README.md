@@ -3,7 +3,7 @@
 ## Setup Screenshots
 
 ### 1. VS Code Project
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/9c620bd9-730e-463e-b5e8-d00a79e0a609" />
+<img width="1920" height="1128" alt="vscode-project" src="https://github.com/user-attachments/assets/28c5be2b-a16c-4f78-bc74-a596d36d8987" />
 
 ### 2. Node.js Version
 ![Node.js version screenshot](<img width="1920" height="1128" alt="node-version" src="https://github.com/user-attachments/assets/12a07079-5865-4b38-996b-2bc42fbe2557" />
